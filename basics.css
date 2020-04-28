@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+}
+body{
+  background: url(https://www.greeka.com/photos/cyclades/naxos/beaches/hero/naxos-beaches-1-1280.webp)
+}
+p{
+  color: orange;
+}
+div{
+color: green;
+background: grey;
+border: double;
+border-color: blue;
+border-width: thick;
+}
+span{
+  color: red;
+}

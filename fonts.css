@@ -1,0 +1,31 @@
+td{
+  height: 200px;
+  width: 100px;
+  border: 5px solid white;
+}
+#one{
+  background-color: #247BA0;
+}
+#two{
+  background-color: #70C1B3;
+}
+#three{
+  background-color: #B2DBBF;
+}
+#four{
+  background-color: #F3FFBD;
+}
+#five{
+  background-color: #FF1654;
+}
+#six{
+  background-color: #FA7921;
+}
+
+h1{
+  font-family: 'Liu Jian Mao Cao', cursive;
+  text-align: center;
+}
+.art{
+  margin: auto;
+}
